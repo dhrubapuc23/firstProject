@@ -1,3 +1,5 @@
 This is a second file.
 
 New line added.
+
+Third line added.
